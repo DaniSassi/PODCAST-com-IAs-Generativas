@@ -20,3 +20,6 @@ A facilitação do uso das ferramentas descritas, possibilitou um curto Podcast,
 
 ### Reflexão
 Foi desafiante, aprender novas ferramentas e perceber que é possível criar novas habilidades é muito gratificante. 
+
+## Meu Projeto
+Veja mais detalhes na [documentação oficial](https://www.notion.so/Gerenciamento-de-Podcast-c91adddff49647f7a5210c6c16cbb786).
